@@ -1,4 +1,4 @@
-# TADS3 README
+# TADS 3
 
 Provides syntax hilighting for the [Text Adventure Development System (TADS) by Michael J. Roberts](http://www.tads.org/index.htm). 
 This is a port of the [Sublime Text plugin by VoidPhantom](https://github.com/VoidPhantom/sublime-tads3)
