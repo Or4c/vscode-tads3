@@ -1,0 +1,26 @@
+{
+    "name": "tads3",
+    "displayName": "tads3",
+    "description": "Syntax hilighting for the Text Adventure Development System.",
+    "version": "0.0.1",
+    "publisher": "albedogames",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "tads3",
+            "aliases": ["TADS 3 Source File", "tads3"],
+            "extensions": [".t"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "tads3",
+            "scopeName": "source.tads3",
+            "path": "./syntaxes/tads3.tmLanguage"
+        }]
+    }
+}
