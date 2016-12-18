@@ -1,8 +1,9 @@
 {
-    "name": "tads3",
-    "displayName": "tads3",
+    "name": "TADS 3",
+    "displayName": "vscode-tads3",
     "description": "Syntax hilighting for the Text Adventure Development System.",
     "version": "0.0.1",
+    "icon": "icon.png",
     "publisher": "albedogames",
     "engines": {
         "vscode": "^1.5.0"
